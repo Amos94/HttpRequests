@@ -5,6 +5,6 @@ Used this to troll an online store, making many views in order to get "Legala ai
 
 Aprox. 100 requests per second with legalamtd.py(using parallelism).
 
-#PRAJIMEA
+###PRAJIMEA
 
 P.S.: SPANTU NU MAI BAGA LEGALE!!
